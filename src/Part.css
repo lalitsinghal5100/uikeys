@@ -1,0 +1,40 @@
+.navation ul li a{
+    color: #F8F8F8;
+    transition: .5s;
+    font-weight: 300;
+    padding: 0px 25px;
+}
+.navation ul li a:hover{
+    color: #f8e32e;
+}
+.iconbs svg {
+    fill: #fff;
+    font-size: 20px;
+    margin-top: 9px;
+}
+.watchBtn{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-weight: 200;
+}
+.watchBtn svg{
+    font-size: 30px;
+    color: #fff;
+    margin-right: 5px !important;
+}
+
+.blackBtn {
+    color: #fff;
+    background: #000000;
+    padding: 10px 38px;
+    border-radius: 35px;
+    transition: .5s;
+    display: inline-block;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+.blackBtn:hover {
+    color: rgb(0, 0, 0);
+    background: #e8d113;
+}
